@@ -1,0 +1,20 @@
+h1 {
+    color: red;
+}
+body {
+    background-color: tan;
+}
+P {
+    text-align: center;
+    font-size: 90%;
+}
+section {
+    border-radius: 1em;
+    padding: 1em;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
+
